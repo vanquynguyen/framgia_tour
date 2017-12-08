@@ -203,4 +203,5 @@ return [
     'number' => 'Number',
     'list_booking' => 'List Booking',
     'comment_login' => 'You need login to comment here!',
+    'your_services_request' => 'Your Services Request',
 ];

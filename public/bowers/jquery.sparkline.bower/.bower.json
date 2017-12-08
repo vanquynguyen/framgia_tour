@@ -48,5 +48,6 @@
   },
   "_source": "https://github.com/lennonjesus/jquery.sparkline.bower.git",
   "_target": "^2.1.2",
-  "_originalSource": "jquery.sparkline.bower"
+  "_originalSource": "jquery.sparkline.bower",
+  "_direct": true
 }
